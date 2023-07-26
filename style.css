@@ -26,12 +26,14 @@ margin-left: -130px;
 height: 24px;
 flex-shrink: 0;
 color: #000;
-font-family: Montserrat;
+font-family: sans-serif;
 font-size: 15px;
 font-style: normal;
 font-weight: 700;
 line-height: normal;
 text-decoration-line: underline;
+
+
 }
 
 .car{
@@ -39,6 +41,8 @@ text-decoration-line: underline;
 padding: 10px;
 align-items: flex-start;
 gap: 40px;
+font-family: sans-serif;
+
 
 }
 .button{
@@ -83,7 +87,7 @@ background: rgba(4, 118, 217, 0.20);
 
 .eee{
   display: flex;
-flex-direction: column;
+flex-direction: row;
 align-items: center;
 gap: 8px;
 color: #0476D9;
